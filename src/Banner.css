@@ -1,0 +1,20 @@
+.Banner{
+    width: 1500px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Banner_image{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -200px;
+
+}
+
+
+.home_row{
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}

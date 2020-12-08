@@ -1,0 +1,75 @@
+.header {
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    z-index: 100;
+}
+
+.header_logo {
+width: 100px;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 18px;
+object-fit: contain;
+}
+
+.header_searchbar{
+    display: flex;
+    flex: 1;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.searchbox{
+
+
+    border: none;
+    padding: 15px;
+    height: 13px;
+    width: 900px;
+}
+
+.searchicon{
+    padding: 10px !important;
+    background-color: #cd9042;
+}
+
+.header_cart{
+    display: flex;
+    margin-left: 20px;
+}
+
+.CartHeading{
+    color: seashell;
+}
+
+.cartIcon{
+     color: seashell;
+}
+
+.header_text{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_link{
+    color: seashell;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.lineone{
+    font-size: 13px;
+}
+
+.linetwo{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.arrow{
+    display: flex;
+}

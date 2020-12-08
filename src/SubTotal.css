@@ -1,0 +1,19 @@
+.SubTotal{
+    margin-top: 20px;
+    margin-left: 40px;
+box-shadow: 1px 1px 1px 1px #000000;
+align-items: center;
+width: 300px;
+height: 200px;
+
+}
+
+.subTotalText {
+    margin-left: 50px;
+}
+
+
+.Checkoutbtn{
+    
+    margin-bottom: 10px;
+}

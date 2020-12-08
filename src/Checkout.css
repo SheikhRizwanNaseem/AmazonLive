@@ -1,0 +1,15 @@
+.checkoutadd{
+width: 100%;
+height: 100px;
+}
+
+.basket__tittle{
+    margin-left: 25px;
+}
+
+.emptybasket__tittle{
+    margin-left: 25px;
+}
+.Checkout{
+    display: flex;
+}
